@@ -1,11 +1,9 @@
 | Keterangan | Isi |
 | --- | --- |
-| Nama | Nama Mahasiswa |
-| NIM | 000000000 |
-| Kelas | Nama Kelas |
-| Mata Kuliah | Nama Mata Kuliah |
-| Dosen Pengampu | Nama Dosen |
-| Judul Tugas | Judul Sistem / Studi Kasus |
+| Nama | DHARLA KAUSAR MAULANA |
+| NIM | 20240803095 ||
+| Mata Kuliah  | Analisis dan Perancangan Sistem Informasi (APSI) | 
+| Judul Tugas | TOKOPEDIA |
 
 # E-Commerce System (Tokopedia Core Transaction Module)
 
@@ -120,7 +118,7 @@ Menggambarkan batasan sistem transaksi yang berinteraksi dengan entitas luar:
 ### Instansiasi Objek Transaksi Real-Time
 * **Object User:** Representasi data nyata akun pembeli yang sedang aktif melakukan transaksi (contoh properti: id_user, nama, alamat).
 * **Object Invoice:** Instansiasi data tagihan dari checkout yang berhasil dibuat (contoh properti: no_invoice, total_harga, status_pembayaran).
-* **Object Product:** Instansiasi detail produk yang dibeli untuk memetakan pengurangan jumlah stok di gudang penjual.
+* **Object Product:** Instansiasi detail produk yang dibeli untuk memetakan pengurangan jumlah stok di gudang penjual
 
 ---
 
